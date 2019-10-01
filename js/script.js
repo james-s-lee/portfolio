@@ -21,7 +21,7 @@ $(document).ready(function() {
     });
 
     var typed = new Typed(".typed", {
-      strings: ["Undergraduate Student.", "Junior Developer.", "Interpreter."],
+      strings: ["International Studies.", "Junior Developer.", "English-Korean Translator."],
       typeSpeed: 40,
       loop: true,
       startDelay: 1000,
